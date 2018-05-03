@@ -1,1 +1,11 @@
 ========================================= Kubernetes Guides ===========================================
+The container "war" maybe coming to a close
+- Docker is by-and-far the leader
+Defines
+- A container Format (Dockerfile)
+- Registry to host Container ( Public and private)
+
+Review & Using Kubernetes orchestrating containers
+
+- Containers have helped simplify & standardize how software is modularized & deployed
+- Container orchestration has arisen to help equally simplify & standardize 
